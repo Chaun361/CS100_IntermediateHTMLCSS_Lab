@@ -3,4 +3,41 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: yellow;
+    border: 1px solid gray;
+    width: 100%;
+}
+
+nav {
+    background-color: yellow;
+    border: 1px solid gray;
+    float: left;
+    width: 20%;
+    height: 200px;
+}
+
+article {
+    background-color: yellow;
+    border: 1px solid gray;
+    float: left;
+    width: 60%;
+    height: 200px;
+}
+
+div {
+    background-color: yellow;
+    border: 1px solid gray;
+    float: left;
+    width: 20%;
+    height: 200px;
+}
+
+footer {
+    background-color: yellow;
+    border: 1px solid gray;
+
 }

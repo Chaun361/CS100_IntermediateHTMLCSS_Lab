@@ -4,7 +4,7 @@
 
 ### Objective
 This lab teaches students how to create a simple web page layout using HTML and CSS. Students will apply floats and basic styling to divide a web page into sections based on a given design.
-
+g
 ### Files Needed
 - [`index.html`](index.html) (provided)
 - `layout.css` (to be created)
@@ -39,7 +39,8 @@ This file contains the structure we will style using CSS.
 ### Step 2: Setting Up the CSS File
 - In your code editor, create a new file and name it `layout.css`.
 - In the `<head>` section of `index.html`, link the CSS file:
-```css
+```html
+<link href="./layout.css" rel="stylesheet">
 ```
 
 - Write a CSS rule in `layout.css` to perform the following:
